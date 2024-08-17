@@ -1,6 +1,6 @@
 module["exports"] = class {
   static config = {
-    name: "deku",
+    name: "ericson",
     description: "Talk to Deku AI",
     prefix: false,
     accessableby: 0,
