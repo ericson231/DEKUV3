@@ -112,9 +112,9 @@ X(
     appState,
   },
   async function (err, api) {
-    logs("╰┈➤ THIS BOT WAS MADE BY DEKU");
-    logs("╰┈➤ CONTACT: https://facebook.com/joshg101");
-    logs("╰┈➤ ADMIN: ADMIN NAME HERE");
+    logs("╰┈➤ THIS BOT WAS MADE BY ERICSON");
+    logs("╰┈➤ CONTACT: https://www.facebook.com/ericsonpascua6");
+    logs("╰┈➤ ADMIN: ERICSON");
     function getGUID() {
       var sectionLength = Date.now();
       var id = "xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(
@@ -755,6 +755,6 @@ X(
 ); // end of X
 
 /* 
-THIS BOT WAS MADE BY DEKU
-CONTACT ME ON FACEBOOK: https://facebook.com/joshg101
+THIS BOT WAS MADE BY ERICSON
+CONTACT ME ON FACEBOOK: https://www.facebook.com/ericsonpascua6
 */
